@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'FarTwoLight';
+  src: url('FarTwoLight.eot');
+  src: url('FarTwoLight.eot?#iefix') format('embedded-opentype'),
+       url('FarTwoLight.woff2') format('woff2'),
+       url('FarTwoLight.woff') format('woff'),
+       url('FarTwoLight.ttf') format('truetype'),
+       url('FarTwoLight.svg#FarTwoLight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
